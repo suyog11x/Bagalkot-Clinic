@@ -1,10 +1,5 @@
-# Bagalkot Clinic — Medical Reports Repository
-
-**P. M. Nadagouda Memorial Dental College and Hospital**  
-Department of Oral Pathology and Microbiology  
+# Bagalkot Clinic — Medical Reports Repository 
 Bagalkot, Karnataka - 587101
-
----
 
 ## 📁 Repository Structure
 
@@ -21,7 +16,7 @@ Bagalkot-Clinic/
 
 ## 📊 Excel Reports
 
-Contains **56 Excel files** (`01.xlsx` → `900.xlsx`) sorted in ascending numerical order.  
+Contains **56 Excel files** sorted in ascending numerical order.  
 Each file represents an individual patient lab report.
 
 ---
@@ -58,4 +53,3 @@ Reports include tests such as:
 
 ---
 
-> **Note:** This is a private repository. All data is confidential and for internal clinical use only.
